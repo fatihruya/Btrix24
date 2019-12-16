@@ -6,8 +6,7 @@ public class task {
     
     System.out.println("Hello World");
     //this line is added from GitHub, see you in Intellij
-
-    }
-
-
+  }
+public String hello(){
+  return "Hello from GitHub"
 }
