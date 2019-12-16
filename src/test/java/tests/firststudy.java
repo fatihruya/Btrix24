@@ -4,7 +4,7 @@ public class firststudy {
 
     public static void main(String[] args) {
 
-        System.out.println("in intellij");
+        System.out.println("from github");
 
 //        int number(5);
 //        System.out.println(number());
